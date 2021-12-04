@@ -1,5 +1,5 @@
 {
-  "name": "lazy-feat-routing",
+  "name": "angular-lazyload-routing",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
